@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Fields",
+  "age": 31,
+  "address": {
+    "street": "Tegzol Boulevard",
+    "city": "Namkudtok",
+    "state": "TN",
+    "zip": "30827"
+  },
+  "contact": {
+    "phone": "(488) 240-2743",
+    "servicePhone": "800289169"
+  },
+  "birthday": "2005-06-30T01:38:20.747Z",
+  "ip": "191.49.187.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce kiepu wap goanowe to gi fizepi jeic pehgu hohsi do meruze tuf pur orevituda kofzo. Ko ca gohen tomabeha desvosgon gumca palseuke jofe pilediro vub ib dehoz wotrojla ebofe. Cenvoza oc ebbak ewisi ekuzegfed fu sowbede og guf tovlu ka eb.",
+    "bio": "Puzovef okoloben unukar ohisuuh mil leokiut honru hij suzdu lorik va valus. Wemihot kawtier rujdondi poz casaci buj tofa de kamzuw jol lamude wosuv punbu paksek so. Ciotda wimozo zolek kubfuhbe liptej kewupku mara ofbim nuclo hiwuh uwdu huger zorsifga."
+  },
+  "apiKey": "c765736ee80e790cafb04aa71035934396a82e352a6e2da4eefacd2f8e8d366d",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
