@@ -1,0 +1,26 @@
+{
+  "name": "Peter Nash",
+  "age": 24,
+  "address": {
+    "street": "Najid Drive",
+    "city": "Tawesab",
+    "state": "TX",
+    "zip": "15986"
+  },
+  "contact": {
+    "phone": "(612) 405-4174",
+    "servicePhone": "800761562"
+  },
+  "birthday": "2004-06-17T00:02:20.415Z",
+  "ip": "219.173.65.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaz wa udne cazguvmi febo zujni ninnejik sa duv sumecu wirad nizkiota ral is mobzijvoc gakfirba digut. Kemzesof ri fuvme wagki pubu cuvneomu nucoon sonosig vo ifoozeadu vevear paruguk zas owesol mub. Rufuzlap ropucwos toncodivu su uwnugeva uki al op vu pec ehja ag farar ed egotim hofakula. Coj do ke wod engun jaj jumif di dunulid to muv neduhuja li zeh ufroeti labugo vurfes. Mipu zagcu goudupat wupinos jauj fa kenupuhe na piulosaj ub tek tuce hehvo fuc vuvuhjon wo.",
+    "bio": "Ha cilham iw amvir rubiva ugabimof sinno juc vejus sonitwaz lu sorogzu ca. Nokgihfar sanap dajakjig vefpi folgag bojid fofe egogocjip ra ufziha av gakajet. Uckon fikmefnac cuvsenba faz bek sosdeljow zeputof nugudgiz loni conuhcem ehkumho go koifowud el opuer. Fo gishufot irios verioge so nocov ruwvoded ba jarteze za tahovij anzunza. Sacif har honoghil lu si cofgu cuheva afa bugoh tuti vede ena no lazbe bilu dot ravri ujda."
+  },
+  "apiKey": "7ac09cd52722b7e54e22ef7381286a26512f00c6173b3de19d4ae94c90fa6731",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
