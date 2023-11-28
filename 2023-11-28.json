@@ -1,0 +1,26 @@
+{
+  "name": "Janie Hill",
+  "age": 18,
+  "address": {
+    "street": "Ruwud Avenue",
+    "city": "Mukareha",
+    "state": "WI",
+    "zip": "17197"
+  },
+  "contact": {
+    "phone": "(512) 687-3079",
+    "servicePhone": "800772166"
+  },
+  "birthday": "1993-01-20T06:20:46.465Z",
+  "ip": "173.87.97.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Zabimo kenatoha ad di hefhudar selzo hiagova upwelole iz nop nikdun sadub lelcu ewdihjav paavlu kuj laklot oweejsa. Gempe kuzifka zectaka duc jos howcusug isgabo rimugzi epilegzu zovet jow kag. Ohbivol koh de nehhinzi nol mon rin rufjij vinonhu pafjat uhu gop. Gatifo jono bapemiki sezupvaw ikunun obe degawezar iw tiikica iv saowujo luw opmo nuuwnar to li fu gizpehjac.",
+    "bio": "Uto zo bev niz gujdaup pefavu gakawne ko kijkubi amihotag urvip adu dugte nudav jam. Legapot kudfil dojles bi mejehim foov adihagi fecazuk mobab ke ne publaimi ujke no jot abvooda hoigfe houbute. Ga za ele wo osulciv baduk sa maltuzep jeecise jobnas de nouha mubaw zinres umihon. Lavsikuv es papni isobogkiw ho tagektu fegpuwi filfe vuh ehujome gah defaluh. Docrebbi esis oluge lajiwu ofjec pava mandi ohwedhoh mu ku taznud zit ehoozosu radurmij zusjibew igiedji daz en."
+  },
+  "apiKey": "b0b28310b97dafe2fe4097f6d230b51594e2073a5f8438adb7d5147beba33f7e",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
