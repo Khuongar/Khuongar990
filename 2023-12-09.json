@@ -1,0 +1,26 @@
+{
+  "name": "Scott Hawkins",
+  "age": 42,
+  "address": {
+    "street": "Udekiz Heights",
+    "city": "Efbehvi",
+    "state": "NM",
+    "zip": "92231"
+  },
+  "contact": {
+    "phone": "(219) 416-1357",
+    "servicePhone": "800633531"
+  },
+  "birthday": "2006-08-19T22:07:02.370Z",
+  "ip": "71.203.146.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Nusu fep ebasuk giwdu bim en cekenimu ninmeglow zusbe mecjepit we ossod jioh jes bijago kat le rufi. Tod it joko ho ewiga veftazip gohawhup alube pa riamro gec zemi gaw. Ubsav hon necahi la suebele oz malim cuadula og ap getuw cowpozuje apibauve rut puvozov.",
+    "bio": "Ene nap pozukibi tunse fop zelakoleg ladgul atu itdejir tuhide jewihu fic zibiw. Zuob lehinoje ujrop bibeilu segem kutheb izuop rasuwpo od vos ke zem ena se omhomuk dop. Haju amdomci acabog on fulo doiz sodi ger tu lacidiz fi jazhek rodazad."
+  },
+  "apiKey": "b494aea9cf83075d22c77ff49737c23936f64bf40a35bc3360d99ea7d368c85c",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
