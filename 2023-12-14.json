@@ -1,0 +1,26 @@
+{
+  "name": "Leon Nichols",
+  "age": 64,
+  "address": {
+    "street": "Ohsik Lane",
+    "city": "Ahfoeho",
+    "state": "ND",
+    "zip": "09999"
+  },
+  "contact": {
+    "phone": "(711) 618-4338",
+    "servicePhone": "800484774"
+  },
+  "birthday": "1965-10-19T08:11:03.811Z",
+  "ip": "65.178.129.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Nacguc zefdirow jeho jo upazmaz inusosof hon itaiwuke jetpepok gezi geveweso holfovi ro fuhbovac ihobatad. Liav ji rirsoc pi souslow tozko cakacat ugetri ga cuvtuj bok go sebialo vibpow manmo wu. Lov noenego buzo lifih boc batudo uzra ijohinuz ek oceket zajpolej obiwisaz.",
+    "bio": "Zozno makaz fikit opmaapo fi rojmejvu mu ucfico pilehuboj mejbokbad pirevbo irho fasa re ahkeben juco. Kipsivga dobfo wo ral sab locigi zeeki houm has tokga wibijsat tobek gejtoziz. Cik tufwenon wanipvel sumnus wulin uzigucroz fil ziolroj id ut osjafi ila fen ivusid."
+  },
+  "apiKey": "6fb57e632ad50c53aeae4dc1867f5e9f1904d9fd95cb8e886b9ea8f87af1d381",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
