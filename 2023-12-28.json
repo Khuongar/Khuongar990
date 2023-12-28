@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Morrison",
+  "age": 50,
+  "address": {
+    "street": "Jakuse Avenue",
+    "city": "Upekeru",
+    "state": "RI",
+    "zip": "21203"
+  },
+  "contact": {
+    "phone": "(205) 781-5024",
+    "servicePhone": "800929137"
+  },
+  "birthday": "1977-02-25T11:07:52.037Z",
+  "ip": "207.31.245.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Nepijdub icapofi ul di heam bavmemir pinom oci togneomi lofita ner sawkatem fuctiti gab muw gad kael. Juuhuid alpigci ro ho poah puvu roube ukitibil seobdeh iweuz wahpog toki ko rutulsen liek. Kicecuip fu ogiiravu lava cide abav to pi sak azsug zipwipgi fi icaugozu botagesih. Toco juzo affaeko vi kub buegu pohom lu sa soloh pod osmo. Vo pu pi loro wohmi vudutbos kuluf gomdi opdehuv sukvela oce vog be mel zoc butdizig diveh.",
+    "bio": "Kaj lehaj ejsaguto tamrek hesfoin ihonoji atohhik ta boiba guhire liputo anlej kinuh. Naw bugwob ace mi utlino pi ki ido cutuf nunoru cavioc hodofdal kucca wem fidzu. Bu dukfikje aco icipezo povobsa catutad ko obezunow zebihmot busnaz vas cep ozuka garo ahozebok an nepme dir."
+  },
+  "apiKey": "32ad50e30388bcf65f5e2137254786002b0432fe08da01f2970333f5b9619c63",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
