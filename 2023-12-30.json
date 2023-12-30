@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Poole",
+  "age": 52,
+  "address": {
+    "street": "Giled Ridge",
+    "city": "Kirofuh",
+    "state": "FL",
+    "zip": "28040"
+  },
+  "contact": {
+    "phone": "(234) 543-2547",
+    "servicePhone": "800784428"
+  },
+  "birthday": "1969-11-03T00:21:13.062Z",
+  "ip": "89.127.143.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Om vusza ija mu pakeewa kefoawi weozi kud ebual heci cas omig ugegu nik keh fi gu. Apja mefek nievu fu unamisro keumido puvojpih gujtu dapjaj karran okigiz eca fu pap egeis caf fawadufi nuric. Kotebwi naivoaci wedhalla za cun pu hizfe tiof zi gidcapo ba lagahoke bek todun.",
+    "bio": "Dibmo humcu diwo faw tus jimdew gubuzi tizwik johoguhof lipok vigce cummama zuteta deow. Gemuzim riw kecsopuk epwah honwug todifaj besav wan asaf gi misbaih jiped. Vu dag ufu hazi mojleza rojob suk kawim zohsihij zalnochu uwadeh ubjihme githe ivemo inewa dinsove owidotwac jis. Bimav kignu telem ugafotja ruk ci di unukupe purpu litji oca pejeher. Gucjakoh metefug rifgi romonfob muwba tol do iti uke tulo hefesuj fisoh dahdem meve zoglugo kobuwid lon. Dahvu gen lereom vuwak giv ew limsu ur secwerban lu sa lubaroso emoguwi hekasa micwema jilge udvazod agpewzil. Amiusone mupobam fez zu taih oronum miena ohce lofruw vaju nid evve pokkojen mas hatnela rezlug nelas."
+  },
+  "apiKey": "431cfdc1a3316f4ad33177f834b7698d41106d8e57b0836978b31ccea044ca4a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
