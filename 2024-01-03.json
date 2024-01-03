@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Barton",
+  "age": 44,
+  "address": {
+    "street": "Otutu Manor",
+    "city": "Cogaduf",
+    "state": "DC",
+    "zip": "89655"
+  },
+  "contact": {
+    "phone": "(608) 834-6827",
+    "servicePhone": "800321747"
+  },
+  "birthday": "1979-12-06T22:01:14.451Z",
+  "ip": "118.254.137.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Lad tosce ebi rogohib okzuiz putbiv su elarafle zurkuoh igu subcac wof viatu jetatu piwasip. Nizajon idocom vepir zezmi fojlikab nave wegvu iczep kib iwzohtu ilwu ophehah ridosdok riocituf fogduj efle. Mabij jidpu sa efeelaf seb jop cogpuwmo fowvo pigocofo pac efzu edtenpum uza monuz bunevwok. Galbof leh penupi awalu zuvifo kumuewu gu fehbopa kef bafcehpi wuaje denvulu mug. Lefkezsim logaad hudano visev orco sotsuru segco me cizu ibzo mikba va hanazod ades.",
+    "bio": "Hoz ponutpo louvib neg su daasusec pohzadda jat sokna konuj fu vav ve gi turgarzeg. Icilijgim gi sazazet ezlasad bothi ifnah kuhakuisi dejead licza kijpa venadcev gu kum reijecam. Bogoowu picgo ducas wonwiahi gejsebu kovuv deuleke guhin egrucnej sabolwo pafezeze var zehocos oposez rasraf ehtinug. Lop hu pagug tocwece gafur civsorbog etigoju rihiida wi ira la efdol tuwjahu howna vu cih icmoral. Ceh as laheb pawuk rihze zafefok zam ike meuzan keeg juhozmu heekcil. Nizig zejog tugifo osebow jogtivde uvfupi evo nesgehde asin ba vo suniv ir keut gif omnid ecuvoz fali. Jec wiwe uze me nispeol fiho pava ju dulwis abvebuk naw cid vavjok giwiduiru dewsuv wamhij."
+  },
+  "apiKey": "16a814b7108b1ca28f68d4807cc26c1eb918390fed6021470b9d3a7d21a60106",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
