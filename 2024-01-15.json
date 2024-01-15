@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Johnson",
+  "age": 45,
+  "address": {
+    "street": "Alidi Manor",
+    "city": "Zaobod",
+    "state": "LA",
+    "zip": "23771"
+  },
+  "contact": {
+    "phone": "(315) 482-1458",
+    "servicePhone": "800952162"
+  },
+  "birthday": "1964-05-29T22:43:14.437Z",
+  "ip": "150.172.1.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Itacagwo tesi fu kojukam sikol rurapi bikiho zuwapihiz zihom sef koksoh iwlehcac. Akhewu rirap wutvehlev landokla mo vicpuetu tov of je jenaeda hocik litat ifatehic kel. Munpo suuz lav nub hidfimti jag eledamok oko ko luz ewperaj otutamu bendup fusetha etru.",
+    "bio": "Iwho oja nosmoda cac di rohgun gurubeuva pecuho rapusdu rot kahatebec ubutejev. Koc om lutki rob ce milbeg pengosa fapap juj evo uvabuga vonzi. Gas pialianu gaavrus vaob lipjuhpi fe binokihef oroze canek kig hup ku vowvi zuzbogdor use sireoh."
+  },
+  "apiKey": "4a363efa613a9658688788ff6de9619094acdfa582206acf618c379918ffb43a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
