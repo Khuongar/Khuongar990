@@ -1,0 +1,26 @@
+{
+  "name": "Ora Campbell",
+  "age": 42,
+  "address": {
+    "street": "Siaw Highway",
+    "city": "Gociho",
+    "state": "MA",
+    "zip": "45420"
+  },
+  "contact": {
+    "phone": "(601) 749-5191",
+    "servicePhone": "800417646"
+  },
+  "birthday": "1978-05-20T19:50:22.937Z",
+  "ip": "30.229.188.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Locke mevo coccel wabsa zosadso keh duspetu inune bew nowdo kuti fodetoiv lek li zidelo bokukib. Nev boh osaj ru huh vuzpil vo fedvubete woloir jifote zeavbu jagbo pa luv taegu gag. Dera afip zal oj roinocal celu jez ufranu cual fesri danal orro kirtika bobta agbejse wi. Ajpuz ej pinu eche sovpimna miros rap ohi cabedik jo duhi jeb ajanico tof tehgaw hi. Rimzez unmo avseowi soni oha ke ebke fe apaha abo dapah ses vomimoz juto fizesunu katsehum hi vonik.",
+    "bio": "Wafowi zaka lo kabowwi ignalvud mapid nu pujgijtif feteb otciel ibpekdep dofnerig dohedbij miseniig ruwzi zi zezlar. Wim lemur ko vonena degen ata keflumnem kooti de biboar ces sep. Kunco jiv cac ojnokoci sel ilpizbac po bez goved kej lokoci fize."
+  },
+  "apiKey": "e118c121d6d800759250ea8cc7e016457bb540687c1fbb4a4761a3365e8fcf14",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
