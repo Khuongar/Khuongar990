@@ -1,0 +1,26 @@
+{
+  "name": "Lester Jimenez",
+  "age": 23,
+  "address": {
+    "street": "Heca View",
+    "city": "Zigreap",
+    "state": "IA",
+    "zip": "15756"
+  },
+  "contact": {
+    "phone": "(989) 381-9549",
+    "servicePhone": "800945572"
+  },
+  "birthday": "1972-11-17T09:12:09.701Z",
+  "ip": "235.53.198.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Uswe foizuk kar caz zajew pir tozca to bopda ronud mih ozowumzaj do. Wote module cuvbuiko nobizi debazap ce jiziapa za bu fuczavlic kebelu ipeaf evpi zo waz op. Tevi be olizab hufga amabo tedesal so honsuj eb ivi miihwov sebvag ufutluv ha piup gah mokgez.",
+    "bio": "Naor ge joverva todi banboigo ve ice pofwovzo hop tu zofev siucros fodlemefo uzirid puce. Seksil nupoda funeno telomu hirifos sesafa lav vu rojaca iwsoba sahsic zoib. Re litnenzu huvam odemasbe gotaccaw makehal sudil majag emev mezaza vufuh lo co towaw pownadnu jisa. Kohuhru fi nare terewoc av er tomlum kow hati difega fizor vakasta vafago felvefcas. Dedapi zi ijo ha zidunud ev cil wombi zioj acuh isohpej wekigjug banjoj."
+  },
+  "apiKey": "a31d74ecf68579e2a3f408634c457fe96af9231e38472cd7dba510411ca82844",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
