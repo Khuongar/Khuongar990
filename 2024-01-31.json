@@ -1,0 +1,26 @@
+{
+  "name": "Katie Roberts",
+  "age": 42,
+  "address": {
+    "street": "Irose Trail",
+    "city": "Fuhuvikic",
+    "state": "LA",
+    "zip": "29652"
+  },
+  "contact": {
+    "phone": "(801) 861-6120",
+    "servicePhone": "800539434"
+  },
+  "birthday": "1987-05-14T11:43:14.021Z",
+  "ip": "41.215.31.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Luhi ukdi dumednu we zug si anotgi in alafe uhgo cijaso va zafumape. Lecum recdop pas pidi asofeit mazu wabsape puz niorur ezimelu hakun fala utebocu. Ej vipid rupe vud le duratbol bulo uwu zati kibreve nup izoherike rep it isluzpu jusru gecbu.",
+    "bio": "Hilew buzlacu muk enmo cobdufbam lecot vowcef tukvef falmokkam cavbit notgebbo ofu mogug misut cuhopguh zabubhad. Cawup dipa civgojzi ebodo wietije zo zimo poc efgol iseka oz zigme vu wuwobna. Vais nigcu mow pagzo afusimet sotja fucrom ukova wagje mo ha ca zacun bug ih dehrab duagusa. Fina ok unhised pi kolof mi fevler anjub ohhup dageja galow des. So biwge hamopwi lijal jufho pik uw eprudu pa ewoleasa kepar kug ji omasu mukifug. Wizifna ivasizas lalgosva vihnudrod kuvesjut lag ehhet afpu tatu be vimuhih ibap jen fu. Wukwop mopepa hav mutu niddegse wecsud malce viuj sowmarsa wupociw gut suderzo mete tuvu fu."
+  },
+  "apiKey": "ec27f0f9bbb9dd71a8ef7ab10eb6086d788be5c579c3be1b2121e072baba9f40",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
