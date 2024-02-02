@@ -1,0 +1,26 @@
+{
+  "name": "Randy Cruz",
+  "age": 44,
+  "address": {
+    "street": "Duhfe Pike",
+    "city": "Gerofow",
+    "state": "VA",
+    "zip": "70873"
+  },
+  "contact": {
+    "phone": "(565) 814-8020",
+    "servicePhone": "800929364"
+  },
+  "birthday": "1978-04-24T00:38:43.010Z",
+  "ip": "109.31.195.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Rumwa na feszofzi ez ko la kezafig lo saz lones fuhih bo. Pu diz ce doihomuh ikonac uh pah muh pu dor ukvedfas abaoz. Cawkaor iwhukmah caju zut fo hetune los ozefinzef leb fitvupec tuwdej sud daono co vosi ipvisih bohlem. Turdel ikoadtoj we jail pa seb bu ke no koew to mazku.",
+    "bio": "Karotgi vicficato riferno fu ni zez fu pecwisa vusis reg hozsuf rezmir cefuta sov civut. Hihapki zolbiw devu cidot vonjevpat ba cicoce mumujcij cope hafnecih nibowvel pa jow potu gaoviet egsabfu forumalim. Wag id laabe apuzza dokah ow ludev sepgees wutos imisep wefhe japif zizozi kacoz."
+  },
+  "apiKey": "350635408d76506d2eecb9950243e1c73dcce09e7c61fdf0fc0766c1e91567d5",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
