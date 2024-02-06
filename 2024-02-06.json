@@ -1,0 +1,26 @@
+{
+  "name": "Gene Armstrong",
+  "age": 56,
+  "address": {
+    "street": "Ditdak Extension",
+    "city": "Umnoep",
+    "state": "NJ",
+    "zip": "99901"
+  },
+  "contact": {
+    "phone": "(756) 515-7753",
+    "servicePhone": "800675686"
+  },
+  "birthday": "1962-05-31T06:02:08.535Z",
+  "ip": "169.87.23.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Omi tuhar wed fijni lesocva ihege laklijri biomigi lohuviat rivacfet petgo revcuj epeuhced bi pit sektibuf moekru egehohi. Giete duhwejaj rivabod arlotiz tujjejfoj hujojeiti cev lo watimit ciji nuv ijewija ogo zid nomnoflo. Ufifiloj fevbeowu wod ufiiza cetu liw jeto barelaz nu avzo rirna mupwoszur mi tagzev mecu unitli osi.",
+    "bio": "Gev mahnoc rorela deoji owpe haebu hisibik wofda ollo abiube fabo hep. Gu co zirum udwab sa nirsoju siaduhet girhejer lic zem tomelisa ha atepu ab ov ninbot efuzor zozoce. Zeduoz acoral wojiwo fic iz hafha foani usojon homel fupu reno usrid unuata."
+  },
+  "apiKey": "91ac8c666c6073843c698154e85f0d359c4a0dd99427737111aea609dc2ffda5",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
