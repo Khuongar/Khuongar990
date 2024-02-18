@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Cross",
+  "age": 60,
+  "address": {
+    "street": "Zaruv Pass",
+    "city": "Dafenagi",
+    "state": "ID",
+    "zip": "56091"
+  },
+  "contact": {
+    "phone": "(883) 715-4424",
+    "servicePhone": "800296125"
+  },
+  "birthday": "1991-11-28T22:45:30.459Z",
+  "ip": "36.29.237.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Gej pid ro hakunek radsiuz ki nuukugi iva dici mebibal tow hug henojuw cu jifiwpo juod hul. Fezavuzi niuvi cabug ka biraseb dagikcu vuz ofe disicku ovuut gewow ihobu on pup kojjezci hehopoli. Moh zipeffac urtaza cezomdu fubradmah dakica bataemi subimnu za kovza konegko ba ahike.",
+    "bio": "To noskagru toicpo gika rim ralne uve weseoz wuwa cagvaj rotor kadfu fecnig juw husliwet dadnige. Dohaz nanobucej po biaku cepboltu ugeisehi pasi ligu ti leju posuh musuk gacil ugitu ugpetec. Azcod sal ga sopeaj vidma duj jabeso vag enfe zi wofovah haod. Be cijwam den apa kisage kamzem ceejahir cupeebe rolucet nerifkum hillatse webuofi to nisbudri mozzalmab honnijge sudi san. Meliccis bazluri cemrazme hobpujdu zowzedpi min wiajafa tubu zep nuoz wac woeni fo zeb ucara. Dap ebkiceda gurunuh cozici wid cuvole zazicid roz avuho pupeno alodavhuh cornima."
+  },
+  "apiKey": "06b97a76b6b2a202f328cd1a8279bcc2e38afd744726506e673675ccd5e512ea",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
