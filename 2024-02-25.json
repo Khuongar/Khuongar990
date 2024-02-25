@@ -1,0 +1,26 @@
+{
+  "name": "Paul Morales",
+  "age": 35,
+  "address": {
+    "street": "Awoaj View",
+    "city": "Iniroged",
+    "state": "PA",
+    "zip": "36796"
+  },
+  "contact": {
+    "phone": "(456) 868-7813",
+    "servicePhone": "800495633"
+  },
+  "birthday": "1966-06-14T16:39:42.188Z",
+  "ip": "9.164.99.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Movon hebohmos fovac ku ilocanon liurnez rezuj enobwo urehi ivusebvo devolojem kevileci dovzi. Nez al baugke mire beso bag waohaco camrotle cimvof nilicoju va la zow jiknibus caz conok ic. Jem soavero jecadu kuno vos pudafo jiak waborsin bab kofufos luzsa tiived. Vidoh mon im fatoti isokeg tehjuvuk cah hon wad vip lec jahro jaw ne izga zuhzup. Vugfab kir so vi ave kajbirho cecwus oj arenoec zeec esuetso dog.",
+    "bio": "Bekdelogi bosup wafip lifopac nar vefubvi ma iwosep emiguw kaj pulnepbip zu. Pusiriit ej zabbe cijfa lej zimna ip jukihjic la fog gitivo la. Hit divegti nophaf mid wafim kukhause zih op ligcegiv riw amtud tapme me pufohuk ewuhawu jofide. Ehabecco usahow fanko hewoj cah nutinni locjak pecaf ogulo lenfiji ge con etva mi."
+  },
+  "apiKey": "7dd4a0f84f9d9158d57f79b3ed4c4e21b091ed346e2defca646519fa30964ece",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
