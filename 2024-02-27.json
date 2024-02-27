@@ -1,0 +1,26 @@
+{
+  "name": "Iva Daniel",
+  "age": 32,
+  "address": {
+    "street": "Cuvon Mill",
+    "city": "Bitiptag",
+    "state": "MA",
+    "zip": "57236"
+  },
+  "contact": {
+    "phone": "(205) 486-3497",
+    "servicePhone": "800634535"
+  },
+  "birthday": "1989-12-02T00:15:33.798Z",
+  "ip": "65.29.65.201",
+  "foo": "bar",
+  "profile": {
+    "about": "De fegebulu ufukaes di vo veta hi wegbutjuw vim ovmut foecuevu wuj uvlo wancuf mactemwo fo rohtil uno. Pipdi wan zodcuobe fop lo piogmuk medjik ni vo ehsoju miipiive noha neujval ut duf. Ip ikapu fotdek ucibuvuh fetnof ji fola it muj ucrifil pihwarbe so ittage jijeal mu. Lavvistu mearwer nu vuc nof bojolo mebsa epwiag daemmav iw wopa ka fisu. Ladhe jerel ra ogile zura mo gukur sebi dagfussod iranewe bok fi. Wogul ifpeha jicpofke vevo uzwiref gecis riit guz egolga jobsewvi orenu kupoki jo guwuco ocaheof.",
+    "bio": "Zo wobe juirnu ufo ke suh domedot upiacaosa bina sonfubhic du adsi dakki cetuege. Nelgezic jece wamu de mopu jeruzmar pis fiovo capegsi bigtarda nol ke tuokiadi nol utukogiz vofaziiwa valat aseadair. Uf lik buizoido gilhi uzbipo kuurupuc iki wojan urkovano luvcegaf hihtorhes oge."
+  },
+  "apiKey": "09c7597219966437107e21ea946bc37d6c7dab0074f041fc6cfdc6521fc47548",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
