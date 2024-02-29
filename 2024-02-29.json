@@ -1,0 +1,26 @@
+{
+  "name": "Allen Day",
+  "age": 35,
+  "address": {
+    "street": "Fivge Terrace",
+    "city": "Kodfofe",
+    "state": "IN",
+    "zip": "10187"
+  },
+  "contact": {
+    "phone": "(824) 633-9874",
+    "servicePhone": "800418274"
+  },
+  "birthday": "1993-10-22T03:47:28.877Z",
+  "ip": "109.143.47.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Miljorup uzgew di uc wehuggam ki majej mero niwdave peemu fotsapfa linfe dija wuwo pap nat naptub dawuf. Usu hacfam mama zu ez wiwuf lamenjut levdew ugucen ira bej pa geh rogvomog. Fa hawuza zamumeb suv pi ji gaghot onpu eh bapmes gu fellec icmotag. Vacehev jip wafbi degceige ri zoh gibo taememow lu fizuponim ikjor ilotibnu nir bouvo pavhefase niisaji. Mafcatbu lonicwa vij niaw ci ibpe okiv zeotati wud punbe oheufe kil obibic ho ucfolju jum dacpejwiv. Kuh enada fudapfih jir ewkusvov firdu noapa lac ro ovi bimmezeg azcu icu gomozgiw.",
+    "bio": "Lezifi wi upekug jiji ih de giw koeslov moto lomuaca higho suoteok pettocit juva je vuk fasoh dedut. Biw buesipe am mepiwo rekkabba evgaare biis vugac sod keebi zu popiwe dizamo ip. Jiapfi agaheco dadadu ni ziekte foj ubaiblej nujetu zos lot numos pip eji vizo tase. Merjibjec fic cucavzer weli bab rivdi wor varuj tuan vofnikmew ejral zas tafcuf bihzig."
+  },
+  "apiKey": "10f86dc3fa70cfb98d6d90dffdf04e21bfa6c86950b3138ddefe9d30e5e1b59d",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
