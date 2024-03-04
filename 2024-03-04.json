@@ -1,0 +1,26 @@
+{
+  "name": "Duane Hayes",
+  "age": 44,
+  "address": {
+    "street": "Oceno Mill",
+    "city": "Hidehife",
+    "state": "OR",
+    "zip": "16262"
+  },
+  "contact": {
+    "phone": "(222) 610-8033",
+    "servicePhone": "800497761"
+  },
+  "birthday": "1969-06-30T17:46:44.115Z",
+  "ip": "73.81.110.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Zefge ral ono wug nacih wi ja uva pinsal hi cu pikoga ji cufu. Ja cahren kem areb newbil surkim uko ati duvfoowi kapzeb guh okjo leru jopu. Ahilevzon adi omo den fohban bac vajbotus iwo obratzap po cintofo im aca bizaroav fus nasuwir il.",
+    "bio": "Akecak eca ufavufli afewa rehzihce na ci pubamibo zov wakjeb jubmazir sin da ku capdatbu nuk. Od ra guwhakhat dicla wuv gudu medmed usaahuobe owe eg netwibez ruku figukta ku pi imfutna sennol aheuz. Iwu uvsav ag go ukdujis rewadavo zafwa fupdu itcatit rifo wes jodi. Kalarlow tebum wic eptosrab puchoro ze rotkan fa ifosic teamki kebofuvi soguhej habvi coedme abi cetji."
+  },
+  "apiKey": "315076167c72fa38e00cf7c6b095be412d9dbbde698390c13c417cbceacc98b6",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
