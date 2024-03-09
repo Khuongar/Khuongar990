@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Watkins",
+  "age": 32,
+  "address": {
+    "street": "Janu Square",
+    "city": "Pajogege",
+    "state": "VT",
+    "zip": "38524"
+  },
+  "contact": {
+    "phone": "(842) 797-6474",
+    "servicePhone": "800963597"
+  },
+  "birthday": "1959-01-06T19:39:20.811Z",
+  "ip": "70.36.196.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Meuciha zusu togeso giwi ezocup nenmosvo sibojnu zohihem eta ozipelvam tencicpi ica. Pi gumilvo durepbip fi tapeguk ha funzo galcivi ico lacfab lab soc fapnijwu mes hid radoseic femnaehe. So ereguh haace suhroslal moso vecsos lidcevjak rawzucco zokiv waz nulif nezo esemizkil umi wowajri oskod.",
+    "bio": "Lagsimugu matuwu pof disece gihiuwe buvepvel nu ozerilzih hutgusur suhul of rohdut. Oftejfem zaje kuf fug eputued hulore fabmu ahezis bijnohag jo tizgagil heltir awuraj ci pado sod. Kerufim gefod ku bazita hida ruekaup mu cadud uhdiku op ran nagasbe. Peptef edeufalub sel dob bawzuzfo tugaw tubomo ned owe igtevror we oriom kobsem okaihagah got otehiper mori. Betzaw apjeje wo pa boowales gujelibud hateidu pirewsi sen udoanemeb re tebsocitu da. Evejikfiw gevreruje ab vobi ke lilavvub sijfetbi sohivutuh de wogvawu fepor lag."
+  },
+  "apiKey": "d65c27c23508410db2691c03f2260c98156f6b74f3fd6a483782d2ab4541fa9e",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
