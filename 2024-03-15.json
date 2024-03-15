@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Medina",
+  "age": 53,
+  "address": {
+    "street": "Fulber Pike",
+    "city": "Rirocaj",
+    "state": "MO",
+    "zip": "23189"
+  },
+  "contact": {
+    "phone": "(716) 710-9037",
+    "servicePhone": "800499177"
+  },
+  "birthday": "2000-09-16T17:29:36.342Z",
+  "ip": "22.118.157.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Vajomsap poremmor jihibad elidrug wargodec wanu owiusfe omgi ofa luli jar dac dutnulkez. Lacupozu be vazwenu vili juktedij bime at vuz cuhsoj cal ogo jodecu cut hi zi. Ruuj fusmen zufuwer banrejvih hu sin co gem de guewfis elueseuze cukujzuv pom momeg wianu babak rawpegir. Afuutusi su mesba vec ogfazgu wulfudve ruro bitmaiji su cim keaseuw kivcuz. Cemod ukaakvas ketij nu fijkecweh beb ok pondi lol in imioj naazodi fop ut. Pubimki da wi cegzur hid jefe heb cahheah ze af zohap pim fewwon dibu ikamivci.",
+    "bio": "Rofoka humviksa mos vedhesonu bercem jihduz lo natga tiltapoj sa decud bol vesduc hubtom nopmeg mejuji nusci evazara. Cof sipu oldir lavuz gujici anevodtis va pudad rerakbov ki ra hakisdu loldamuba jewajer gueve. Ujaze ebasaj niben muworzob jilag lavjiw kak liun barebkel ceva jaw egowiw morovo co vavijjap."
+  },
+  "apiKey": "71d1b1fd3271a8aafc4a3e4569a908ff3b1468411e332e0f2b7098a208f30874",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
