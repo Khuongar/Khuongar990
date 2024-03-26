@@ -1,0 +1,26 @@
+{
+  "name": "Leila Bass",
+  "age": 50,
+  "address": {
+    "street": "Hohur Point",
+    "city": "Oclirij",
+    "state": "MS",
+    "zip": "60756"
+  },
+  "contact": {
+    "phone": "(546) 301-9704",
+    "servicePhone": "800954741"
+  },
+  "birthday": "1988-03-02T08:38:43.775Z",
+  "ip": "239.123.194.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Farmu mig ogo eg korpuc cumad ca igjedo tow uzoco ikvig dekkutgo farunjig umoulniw egega mofokvop su ra. Ohopu sah nujam irwof acukeeb ugevo funolezi fidero izojeg awo homukjis ceiviem paffulvij ga. Ofola weesco tas beg we wazepoc mukve inwu ro rokoefa suc pi ozkoh mup.",
+    "bio": "Bazed ru ho cosocu ca futma zid ked bednar ifaonunek edinurlu sokof ci supeje dajru sijotucod. Raonza dazug ruwe bebig du widvuvke tibifa li upja hobfebu ce ju pe dojav evewe ih mitte. Oser mi cigiv fib ovja suc fukedpis caz norzevod sa rukegu ihdi madvis uc levien gaggego wardap. Mozjo kodlamon cufza liz acu fiwpi la azu ne cata of jo kepap miduc redmuhmog sil wajobov boabew."
+  },
+  "apiKey": "147d6bddb90d1c42c8a7835b994a49c6aecb4782a7b5c16445206dd567d848e4",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
