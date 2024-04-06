@@ -1,0 +1,26 @@
+{
+  "name": "Terry Haynes",
+  "age": 37,
+  "address": {
+    "street": "Wewmar Boulevard",
+    "city": "Uzugotako",
+    "state": "RI",
+    "zip": "27303"
+  },
+  "contact": {
+    "phone": "(885) 670-7695",
+    "servicePhone": "800554545"
+  },
+  "birthday": "2001-09-03T14:48:59.024Z",
+  "ip": "225.209.27.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Mampev fukelre ejgu vowbarej rumowigot bukuc fizsu reruge jarboreva sevra cignuh haisuliz. Ciriddaz fig ajionzo lo lunbowig kadlivcum de bew omfobku wewdoddo agu bi kefbafujo kiwe duc azti cifouco nuh. Bu occe kahrivod dib uv colwakig aj warroc nuwha juvuwli tinaj si up pomso. Uzedeid lijha hepnivza iba harbivta uwujiuw eracef fig werekpoj ta niunu reufdes fefuva iwiokocip nipalci nilat weswanbiw. Va zizku gohga josas viwarwa uhjervu de zor gi aluseibi ataapuuz zuwomuw mocfugga nat.",
+    "bio": "Cetumgo iju zokib wepkaeb neh tinhehhuf pu wunmen hurif gidawi hulotdo ugkoh mek sisado. Gojehel gabohag hizubaw waahloj vaci fiifohep jesegfov ha rev bo vamel wicsifze sok el va tugig riace guwe. Gijuv jo fosof sufakosi wupipke epuizlap pivib lufos puv muwduus uji alebe. Ab difuhni idusipwez uhvi neklopir pemeam wa worvucla nopturjur af ru bippidvov gaf ipga nat."
+  },
+  "apiKey": "9045757a8ec32af001e2ebd0bd8689b0491fa8cf8b7bb3ed6c4bbe9037287886",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
