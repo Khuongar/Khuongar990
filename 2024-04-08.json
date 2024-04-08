@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Ross",
+  "age": 26,
+  "address": {
+    "street": "Arkog Pass",
+    "city": "Utifci",
+    "state": "LA",
+    "zip": "08733"
+  },
+  "contact": {
+    "phone": "(225) 291-2704",
+    "servicePhone": "800679447"
+  },
+  "birthday": "1960-01-11T02:53:10.738Z",
+  "ip": "54.185.72.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Fashis amojeku borankuk ut jide mow nivlubujo jivo ti ragho vutac ci ijocop leksoc ewa. Fi harfem mamrifbe wul dokloj op edvupu use lif daru ugafir ruwoc zep ow ti. Bi mew suv wu dodzisfed telci ivpa pesoc ok vez ulubit nelloj in siaf buzwag ehro didaz.",
+    "bio": "Namavwis lozodzu kerbawiz ven ohgad sapadi jolu serdubzo wohva car pivweowu cego jegfop lohheewe taba kifiztuw zigliciv. Zip ejmo cuguhilas jumlojok ivefazine huneeti vu kufif mucozi foh fusi pu faut vijughu joeswev. Jatucimu igu baz alotobne je big leneci viku kisirod waina tudos pevirwa ja gotonjim."
+  },
+  "apiKey": "c3d42739ba4f0116aa3a2fa385cefda8d8cf1956973c88ba1a6172c88a153393",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
